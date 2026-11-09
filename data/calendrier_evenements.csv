@@ -1,0 +1,165 @@
+debut,fin,evenement,type,fiabilite
+2017-01-01,2017-01-01,Nouvel An,ferie,officielle
+2017-01-11,2017-01-11,Manifeste de l'Indépendance,ferie,officielle
+2017-05-01,2017-05-01,Fête du Travail,ferie,officielle
+2017-05-28,2017-06-25,Ramadan,ramadan,± 1 jour
+2017-06-26,2017-06-27,Aïd al-Fitr,ferie,± 1 jour
+2017-07-30,2017-07-30,Fête du Trône,ferie,officielle
+2017-08-14,2017-08-14,Oued Ed-Dahab,ferie,officielle
+2017-08-20,2017-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2017-09-01,2017-09-02,Aïd al-Adha,ferie,± 1 jour
+2017-09-22,2017-09-22,1er Moharram,ferie,± 1 jour
+2017-11-06,2017-11-06,Marche Verte,ferie,officielle
+2017-11-18,2017-11-18,Fête de l'Indépendance,ferie,officielle
+2017-12-01,2017-12-02,Aïd al-Mawlid,ferie,± 1 jour
+2018-01-01,2018-01-01,Nouvel An,ferie,officielle
+2018-01-11,2018-01-11,Manifeste de l'Indépendance,ferie,officielle
+2018-05-01,2018-05-01,Fête du Travail,ferie,officielle
+2018-05-17,2018-06-14,Ramadan,ramadan,± 1 jour
+2018-06-15,2018-06-16,Aïd al-Fitr,ferie,± 1 jour
+2018-07-30,2018-07-30,Fête du Trône,ferie,officielle
+2018-08-14,2018-08-14,Oued Ed-Dahab,ferie,officielle
+2018-08-20,2018-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2018-08-22,2018-08-23,Aïd al-Adha,ferie,± 1 jour
+2018-09-12,2018-09-12,1er Moharram,ferie,± 1 jour
+2018-11-06,2018-11-06,Marche Verte,ferie,officielle
+2018-11-18,2018-11-18,Fête de l'Indépendance,ferie,officielle
+2018-11-20,2018-11-21,Aïd al-Mawlid,ferie,± 1 jour
+2019-01-01,2019-01-01,Nouvel An,ferie,officielle
+2019-01-11,2019-01-11,Manifeste de l'Indépendance,ferie,officielle
+2019-05-01,2019-05-01,Fête du Travail,ferie,officielle
+2019-05-07,2019-06-04,Ramadan,ramadan,± 1 jour
+2019-06-05,2019-06-06,Aïd al-Fitr,ferie,± 1 jour
+2019-07-30,2019-07-30,Fête du Trône,ferie,officielle
+2019-08-12,2019-08-13,Aïd al-Adha,ferie,± 1 jour
+2019-08-14,2019-08-14,Oued Ed-Dahab,ferie,officielle
+2019-08-20,2019-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2019-09-01,2019-09-01,1er Moharram,ferie,± 1 jour
+2019-11-06,2019-11-06,Marche Verte,ferie,officielle
+2019-11-10,2019-11-11,Aïd al-Mawlid,ferie,± 1 jour
+2019-11-18,2019-11-18,Fête de l'Indépendance,ferie,officielle
+2020-01-01,2020-01-01,Nouvel An,ferie,officielle
+2020-01-11,2020-01-11,Manifeste de l'Indépendance,ferie,officielle
+2020-04-25,2020-05-23,Ramadan,ramadan,± 1 jour
+2020-05-01,2020-05-01,Fête du Travail,ferie,officielle
+2020-05-24,2020-05-25,Aïd al-Fitr,ferie,± 1 jour
+2020-07-30,2020-07-30,Fête du Trône,ferie,officielle
+2020-07-31,2020-08-01,Aïd al-Adha,ferie,± 1 jour
+2020-08-14,2020-08-14,Oued Ed-Dahab,ferie,officielle
+2020-08-20,2020-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2020-08-21,2020-08-21,1er Moharram,ferie,± 1 jour
+2020-10-29,2020-10-30,Aïd al-Mawlid,ferie,± 1 jour
+2020-11-06,2020-11-06,Marche Verte,ferie,officielle
+2020-11-18,2020-11-18,Fête de l'Indépendance,ferie,officielle
+2021-01-01,2021-01-01,Nouvel An,ferie,officielle
+2021-01-11,2021-01-11,Manifeste de l'Indépendance,ferie,officielle
+2021-04-14,2021-05-12,Ramadan,ramadan,± 1 jour
+2021-05-01,2021-05-01,Fête du Travail,ferie,officielle
+2021-05-13,2021-05-14,Aïd al-Fitr,ferie,± 1 jour
+2021-07-21,2021-07-22,Aïd al-Adha,ferie,± 1 jour
+2021-07-30,2021-07-30,Fête du Trône,ferie,officielle
+2021-08-10,2021-08-10,1er Moharram,ferie,± 1 jour
+2021-08-14,2021-08-14,Oued Ed-Dahab,ferie,officielle
+2021-08-20,2021-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2021-10-19,2021-10-20,Aïd al-Mawlid,ferie,± 1 jour
+2021-11-06,2021-11-06,Marche Verte,ferie,officielle
+2021-11-18,2021-11-18,Fête de l'Indépendance,ferie,officielle
+2022-01-01,2022-01-01,Nouvel An,ferie,officielle
+2022-01-11,2022-01-11,Manifeste de l'Indépendance,ferie,officielle
+2022-04-03,2022-05-02,Ramadan,ramadan,± 1 jour
+2022-05-01,2022-05-01,Fête du Travail,ferie,officielle
+2022-05-03,2022-05-04,Aïd al-Fitr,ferie,± 1 jour
+2022-07-10,2022-07-11,Aïd al-Adha,ferie,± 1 jour
+2022-07-30,2022-07-30,Fête du Trône,ferie,officielle
+2022-07-30,2022-07-30,1er Moharram,ferie,± 1 jour
+2022-08-14,2022-08-14,Oued Ed-Dahab,ferie,officielle
+2022-08-20,2022-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2022-10-09,2022-10-10,Aïd al-Mawlid,ferie,± 1 jour
+2022-11-06,2022-11-06,Marche Verte,ferie,officielle
+2022-11-18,2022-11-18,Fête de l'Indépendance,ferie,officielle
+2023-01-01,2023-01-01,Nouvel An,ferie,officielle
+2023-01-11,2023-01-11,Manifeste de l'Indépendance,ferie,officielle
+2023-03-23,2023-04-21,Ramadan,ramadan,± 1 jour
+2023-04-22,2023-04-23,Aïd al-Fitr,ferie,± 1 jour
+2023-05-01,2023-05-01,Fête du Travail,ferie,officielle
+2023-06-29,2023-06-30,Aïd al-Adha,ferie,± 1 jour
+2023-07-19,2023-07-19,1er Moharram,ferie,± 1 jour
+2023-07-30,2023-07-30,Fête du Trône,ferie,officielle
+2023-08-14,2023-08-14,Oued Ed-Dahab,ferie,officielle
+2023-08-20,2023-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2023-09-27,2023-09-28,Aïd al-Mawlid,ferie,± 1 jour
+2023-11-06,2023-11-06,Marche Verte,ferie,officielle
+2023-11-18,2023-11-18,Fête de l'Indépendance,ferie,officielle
+2024-01-01,2024-01-01,Nouvel An,ferie,officielle
+2024-01-11,2024-01-11,Manifeste de l'Indépendance,ferie,officielle
+2024-01-14,2024-01-14,Nouvel An amazigh,ferie,officielle
+2024-03-12,2024-04-09,Ramadan,ramadan,± 1 jour
+2024-04-10,2024-04-11,Aïd al-Fitr,ferie,± 1 jour
+2024-05-01,2024-05-01,Fête du Travail,ferie,officielle
+2024-06-17,2024-06-18,Aïd al-Adha,ferie,± 1 jour
+2024-07-08,2024-07-08,1er Moharram,ferie,± 1 jour
+2024-07-30,2024-07-30,Fête du Trône,ferie,officielle
+2024-08-14,2024-08-14,Oued Ed-Dahab,ferie,officielle
+2024-08-20,2024-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2024-09-16,2024-09-17,Aïd al-Mawlid,ferie,± 1 jour
+2024-11-06,2024-11-06,Marche Verte,ferie,officielle
+2024-11-18,2024-11-18,Fête de l'Indépendance,ferie,officielle
+2025-01-01,2025-01-01,Nouvel An,ferie,officielle
+2025-01-11,2025-01-11,Manifeste de l'Indépendance,ferie,officielle
+2025-01-14,2025-01-14,Nouvel An amazigh,ferie,officielle
+2025-03-02,2025-03-30,Ramadan,ramadan,± 1 jour
+2025-03-31,2025-04-01,Aïd al-Fitr,ferie,± 1 jour
+2025-05-01,2025-05-01,Fête du Travail,ferie,officielle
+2025-06-07,2025-06-08,Aïd al-Adha,ferie,± 1 jour
+2025-06-27,2025-06-27,1er Moharram,ferie,± 1 jour
+2025-07-30,2025-07-30,Fête du Trône,ferie,officielle
+2025-08-14,2025-08-14,Oued Ed-Dahab,ferie,officielle
+2025-08-20,2025-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2025-09-05,2025-09-06,Aïd al-Mawlid,ferie,± 1 jour
+2025-11-06,2025-11-06,Marche Verte,ferie,officielle
+2025-11-18,2025-11-18,Fête de l'Indépendance,ferie,officielle
+2026-01-01,2026-01-01,Nouvel An,ferie,officielle
+2026-01-11,2026-01-11,Manifeste de l'Indépendance,ferie,officielle
+2026-01-14,2026-01-14,Nouvel An amazigh,ferie,officielle
+2026-02-19,2026-03-19,Ramadan,ramadan,officielle
+2026-03-20,2026-03-21,Aïd al-Fitr,ferie,officielle
+2026-05-01,2026-05-01,Fête du Travail,ferie,officielle
+2026-05-27,2026-05-28,Aïd al-Adha,ferie,officielle
+2026-06-17,2026-06-17,1er Moharram,ferie,officielle
+2026-07-30,2026-07-30,Fête du Trône,ferie,officielle
+2026-08-14,2026-08-14,Oued Ed-Dahab,ferie,officielle
+2026-08-20,2026-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2026-08-25,2026-08-26,Aïd al-Mawlid,ferie,officielle
+2026-10-31,2026-10-31,Fête de l'Unité,ferie,officielle
+2026-11-06,2026-11-06,Marche Verte,ferie,officielle
+2026-11-18,2026-11-18,Fête de l'Indépendance,ferie,officielle
+2027-01-01,2027-01-01,Nouvel An,ferie,officielle
+2027-01-11,2027-01-11,Manifeste de l'Indépendance,ferie,officielle
+2027-01-14,2027-01-14,Nouvel An amazigh,ferie,officielle
+2027-02-08,2027-03-09,Ramadan,ramadan,estimée
+2027-03-10,2027-03-11,Aïd al-Fitr,ferie,estimée
+2027-05-01,2027-05-01,Fête du Travail,ferie,officielle
+2027-05-17,2027-05-18,Aïd al-Adha,ferie,estimée
+2027-06-06,2027-06-06,1er Moharram,ferie,estimée
+2027-07-30,2027-07-30,Fête du Trône,ferie,officielle
+2027-08-14,2027-08-14,Oued Ed-Dahab,ferie,officielle
+2027-08-14,2027-08-15,Aïd al-Mawlid,ferie,estimée
+2027-08-20,2027-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2027-10-31,2027-10-31,Fête de l'Unité,ferie,officielle
+2027-11-06,2027-11-06,Marche Verte,ferie,officielle
+2027-11-18,2027-11-18,Fête de l'Indépendance,ferie,officielle
+2028-01-01,2028-01-01,Nouvel An,ferie,officielle
+2028-01-11,2028-01-11,Manifeste de l'Indépendance,ferie,officielle
+2028-01-14,2028-01-14,Nouvel An amazigh,ferie,officielle
+2028-01-28,2028-02-25,Ramadan,ramadan,estimée
+2028-02-26,2028-02-27,Aïd al-Fitr,ferie,estimée
+2028-05-01,2028-05-01,Fête du Travail,ferie,officielle
+2028-05-05,2028-05-06,Aïd al-Adha,ferie,estimée
+2028-05-26,2028-05-26,1er Moharram,ferie,estimée
+2028-07-30,2028-07-30,Fête du Trône,ferie,officielle
+2028-08-03,2028-08-04,Aïd al-Mawlid,ferie,estimée
+2028-08-14,2028-08-14,Oued Ed-Dahab,ferie,officielle
+2028-08-20,2028-08-21,Révolution du Roi et du Peuple / Fête de la Jeunesse,ferie,officielle
+2028-10-31,2028-10-31,Fête de l'Unité,ferie,officielle
+2028-11-06,2028-11-06,Marche Verte,ferie,officielle
+2028-11-18,2028-11-18,Fête de l'Indépendance,ferie,officielle
