@@ -1,0 +1,26 @@
+{
+  "COSUMAR SA": {
+    "file": "COSUMAR_SA.pkl",
+    "model_type": "SARIMA",
+    "mape": 4.424302353093636,
+    "last_date": "31/12/2020"
+  },
+  "SUNABEL": {
+    "file": "SUNABEL.pkl",
+    "model_type": "SARIMA",
+    "mape": 17.554495995498407,
+    "last_date": "31/12/2020"
+  },
+  "SURAC": {
+    "file": "SURAC.pkl",
+    "model_type": "XGBoost",
+    "mape": 13.351470252102695,
+    "last_date": "31/12/2020"
+  },
+  "SUTA": {
+    "file": "SUTA.pkl",
+    "model_type": "XGBoost",
+    "mape": 6.304087182759549,
+    "last_date": "31/12/2020"
+  }
+}
