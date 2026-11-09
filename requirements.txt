@@ -1,0 +1,9 @@
+# Versions testées : Python 3.13, streamlit 1.67, pandas 3.0, numpy 2.5, plotly 7.1,
+# statsmodels 0.15, scikit-learn 1.9
+streamlit>=1.46,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+plotly>=5.24,<8
+openpyxl>=3.1,<4
+statsmodels>=0.14,<1
+scikit-learn>=1.5,<2
